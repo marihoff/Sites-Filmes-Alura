@@ -1,105 +1,28 @@
-```markdown
-# 🎬 Sites Filmes - Alura
+🚀 Mais um passo na minha jornada de transição para a tecnologia!
 
-Projeto desenvolvido durante os cursos da **Alura** com o objetivo de praticar conceitos fundamentais de desenvolvimento Front-end utilizando **HTML**, **CSS** e **JavaScript**.
+Concluí a trilha **"Aprenda a Programar em Java com Orientação a Objetos"**, da Alura, com **36 horas de estudos**, oportunidade que recebi como incentivo da **Pulse Mais**.
 
-O projeto simula um catálogo de filmes, explorando a construção de interfaces modernas, organização de conteúdo e estilização responsiva.
+Ao longo da formação, aprofundei meus conhecimentos em Java, desde os fundamentos da linguagem até conceitos essenciais de **Programação Orientada a Objetos**, como classes, herança, interfaces e boas práticas de desenvolvimento.
 
----
+Também evoluí em temas importantes para o desenvolvimento back-end, como:
+✅ Manipulação de coleções e listas;
+✅ Consumo de APIs REST;
+✅ Tratamento de exceções;
+✅ Manipulação de dados JSON com **Gson**;
+✅ Utilização de **Postman** para testes de APIs;
+✅ Integração com APIs como **OMDb** e **ViaCEP**;
+✅ Gerenciamento de dependências com **Maven Repository**;
+✅ Documentação utilizando **JavaDocs**.
 
-## 🚀 Objetivos
+Cada curso concluído reforça minha convicção de que aprender continuamente é o caminho para construir soluções melhores e me preparar para os desafios da engenharia de software.
 
-- Praticar desenvolvimento de páginas web.
-- Aprender a estruturar layouts utilizando HTML semântico.
-- Aplicar estilização com CSS.
-- Desenvolver interatividade com JavaScript.
-- Consolidar conhecimentos adquiridos durante a formação da Alura.
+Agradeço à **Pulse Mais** pelo incentivo ao desenvolvimento profissional e à **Alura** pela qualidade do conteúdo.
 
----
+Seguimos aprendendo e evoluindo! 💙
 
-## 🛠️ Tecnologias utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+<img width="773" height="523" alt="04" src="https://github.com/user-attachments/assets/641da4fb-4a84-4828-809c-f579fedc9e76" />
+<img width="770" height="524" alt="03" src="https://github.com/user-attachments/assets/4d377cb9-4077-4315-96a7-7c5695992285" />
+<img width="773" height="525" alt="02" src="https://github.com/user-attachments/assets/096520ae-6142-4e7c-9daf-bed8eca65384" />
+<img width="772" height="525" alt="01" src="https://github.com/user-attachments/assets/a3a055a1-85c5-4e69-a4eb-f85310ed7c93" />
 
----
-
-## ✨ Funcionalidades
-
-- Interface inspirada em plataformas de streaming.
-- Exibição de catálogo de filmes.
-- Layout organizado e responsivo.
-- Navegação intuitiva.
-- Componentes estilizados com CSS.
-
----
-
-## 📂 Estrutura do projeto
-
-```
-
-├── css/
-├── img/
-├── js/
-├── index.html
-└── README.md
-
-````
-
----
-
-## ▶️ Como executar
-
-1. Clone este repositório:
-
-```bash
-git clone https://github.com/marihoff/Sites-Filmes-Alura.git
-````
-
-2. Acesse a pasta do projeto:
-
-```bash
-cd Sites-Filmes-Alura
-```
-
-3. Abra o arquivo `index.html` em qualquer navegador.
-
-Não é necessário instalar dependências.
-
----
-
-## 📚 Aprendizados
-
-Durante o desenvolvimento deste projeto foram praticados conceitos como:
-
-* Estruturação de páginas HTML.
-* Organização de arquivos em projetos Front-end.
-* Estilização utilizando CSS.
-* Manipulação de elementos com JavaScript.
-* Boas práticas de desenvolvimento.
-* Versionamento de código com Git e GitHub.
-
----
-
-## 👩‍💻 Autora
-
-**Mariana Hoffmann**
-
-* GitHub: https://github.com/marihoff
-* LinkedIn: https://www.linkedin.com/in/mariana-hoffmann
-
----
-
-## 📄 Licença
-
-Este projeto foi desenvolvido para fins de estudo e aprendizado durante os cursos da Alura.
-
-```
-```
-[Mariana Hoffmann - Curso Java_ trabalhando com listas e coleções de dados - Alura.pdf](https://github.com/user-attachments/files/29684191/Mariana.Hoffmann.-.Curso.Java_.trabalhando.com.listas.e.colecoes.de.dados.-.Alura.pdf)
-[Mariana Hoffmann - Curso Java_ criando a sua primeira aplicação - Alura.pdf](https://github.com/user-attachments/files/29684190/Mariana.Hoffmann.-.Curso.Java_.criando.a.sua.primeira.aplicacao.-.Alura.pdf)
-[Mariana Hoffmann - Curso Java_ consumindo API, gravando arquivos e lidando com erros - Alura.pdf](https://github.com/user-attachments/files/29684189/Mariana.Hoffmann.-.Curso.Java_.consumindo.API.gravando.arquivos.e.lidando.com.erros.-.Alura.pdf)
-[Mariana Hoffmann - Curso Java_ aplicando a Orientação a Objetos - Alura.pdf](https://github.com/user-attachments/files/29684188/Mariana.Hoffmann.-.Curso.Java_.aplicando.a.Orientacao.a.Objetos.-.Alura.pdf)
