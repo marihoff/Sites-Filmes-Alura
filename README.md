@@ -6,12 +6,19 @@ Ao longo da formação, aprofundei meus conhecimentos em Java, desde os fundamen
 
 Também evoluí em temas importantes para o desenvolvimento back-end, como:
 ✅ Manipulação de coleções e listas;
+
 ✅ Consumo de APIs REST;
+
 ✅ Tratamento de exceções;
+
 ✅ Manipulação de dados JSON com **Gson**;
+
 ✅ Utilização de **Postman** para testes de APIs;
+
 ✅ Integração com APIs como **OMDb** e **ViaCEP**;
+
 ✅ Gerenciamento de dependências com **Maven Repository**;
+
 ✅ Documentação utilizando **JavaDocs**.
 
 Cada curso concluído reforça minha convicção de que aprender continuamente é o caminho para construir soluções melhores e me preparar para os desafios da engenharia de software.
